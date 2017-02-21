@@ -1,0 +1,4 @@
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Contracts\bin\Debug\PGPArticle.Contracts.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Contracts\bin\Debug\PGPArticle.Contracts.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Contracts\obj\Debug\PGPArticle.Contracts.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Contracts\obj\Debug\PGPArticle.Contracts.pdb

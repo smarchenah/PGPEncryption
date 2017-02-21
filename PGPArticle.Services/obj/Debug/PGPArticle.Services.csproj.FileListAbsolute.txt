@@ -1,0 +1,9 @@
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Services\bin\Debug\PGPArticle.Services.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Services\bin\Debug\PGPArticle.Services.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Services\bin\Debug\PGPArticle.Contracts.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Services\bin\Debug\PGPArticle.Contracts.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Services\obj\Debug\PGPArticle.Services.csprojResolveAssemblyReference.cache
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Services\obj\Debug\PGPArticle.Services.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Services\obj\Debug\PGPArticle.Services.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Services\bin\Debug\starksoft.aspen.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.Services\bin\Debug\starksoft.aspen.xml

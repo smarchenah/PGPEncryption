@@ -1,0 +1,11 @@
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.ConsoleApp\bin\Debug\PGPArticle.ConsoleApp.exe
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.ConsoleApp\bin\Debug\PGPArticle.ConsoleApp.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.ConsoleApp\bin\Debug\PGPArticle.Contracts.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.ConsoleApp\bin\Debug\PGPArticle.Services.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.ConsoleApp\bin\Debug\PGPArticle.Contracts.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.ConsoleApp\bin\Debug\PGPArticle.Services.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.ConsoleApp\obj\x86\Debug\PGPArticle.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.ConsoleApp\obj\x86\Debug\PGPArticle.ConsoleApp.exe
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.ConsoleApp\obj\x86\Debug\PGPArticle.ConsoleApp.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.ConsoleApp\bin\Debug\starksoft.aspen.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPArticle.ConsoleApp\bin\Debug\starksoft.aspen.xml

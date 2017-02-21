@@ -1,0 +1,15 @@
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\obj\Debug\PGPEncryptDecrypt.csprojResolveAssemblyReference.cache
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\obj\Debug\PGPEncryptDecrypt.Form1.resources
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\obj\Debug\PGPEncryptDecrypt.Properties.Resources.resources
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\obj\Debug\PGPEncryptDecrypt.csproj.GenerateResource.Cache
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\bin\Debug\PGPEncryptDecrypt.exe.config
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\bin\Debug\PGPEncryptDecrypt.exe
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\bin\Debug\PGPEncryptDecrypt.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\bin\Debug\PGPArticle.Contracts.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\bin\Debug\PGPArticle.Services.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\bin\Debug\PGPArticle.Contracts.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\bin\Debug\PGPArticle.Services.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\obj\Debug\PGPEncryptDecrypt.exe
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\obj\Debug\PGPEncryptDecrypt.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\bin\Debug\starksoft.aspen.dll
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\PGP Encryption C#\CodeProjectArticlePGP\CodeProjectArticlePGP\PGPEncryptDecrypt\bin\Debug\starksoft.aspen.xml
